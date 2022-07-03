@@ -1,8 +1,11 @@
-## Hi!
 My name's Patrick, but most people call me Ricky.
 
-🎓 Rising junior computer science major at UNF
+***I am...***
 
-👨‍💻 Interested in web development with React
+🎓 A rising junior computer science major at UNF
+
+👨‍💻 Interested in software development and web development with React
 
 💼 Looking for an internship for Summer '23
+
+📚 JS, TS, Java, Python, C++
