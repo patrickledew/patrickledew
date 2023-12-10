@@ -2,7 +2,7 @@ My name's Patrick, but most people call me Ricky.
 
 ***I am...***
 
-🎓 A junior computer science major at UNF
+🎓 A senior computer science student at UNF (graduating Dec 2023)
 
 👨‍💻 Interested in software development and web development with React
 
