@@ -1,6 +1,6 @@
-My name's Patrick, but most people call me Ricky.
-
 ***I am...***
+
+🤖 Software Engineer I @ NLP Logix
 
 🎓 UNF Alumni (grad. Dec 2023)
 
